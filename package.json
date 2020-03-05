@@ -1,0 +1,9 @@
+{
+  "name": "getstream-graphql",
+  "version": "1.0.0",
+  "description": "Run through of GetStream's tutorial on GraphQL",
+  "main": "index.js",
+  "author": "Sanjeev Sekar",
+  "license": "MIT",
+  "private": false
+}
